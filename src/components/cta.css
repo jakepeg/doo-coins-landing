@@ -1,0 +1,68 @@
+.cta {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  font-weight: 600;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  line-height: 1.5;
+  border-radius: 4px;
+  transition: all 0.5s;
+  text-decoration: none;
+}
+
+.push {
+  margin-top: 20px;
+}
+
+.cta:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.3);
+}
+
+.big-cta {
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+}
+
+.small-cta {
+  padding: 0.3rem 0.7rem;
+  font-size: 1.1rem;
+  height: 43px;
+}
+
+.orange {
+  color: #fff;
+  background-color: #eb5727;
+  border-color: #eb5727;
+}
+
+.green {
+  color: #fff;
+  background-color: #00a305;
+  border-color: #00a305;
+}
+
+.black {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.white {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.blue {
+  color: #fff;
+  background-color: rgb(11, 52, 78);
+  border-color: rgb(11, 52, 78);
+}
+
+/* for phones only */
+@media (max-width: 599px) {
+  .small-cta {
+    /* display: none; */
+  }
+}
