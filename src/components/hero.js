@@ -11,11 +11,11 @@ const Hero = () => {
           Kids rewards app
         </h1>
         <p className="value-prop">
-        Children earn DooCoins for good behavior, completing chores and personal achievements.
+        Children earn DooCoins for good behavior, completing chores and personal achievements, goals are set and DooCoins are redeemed for rewards. 
         </p>
 
         <p className="value-prop">
-        Goals are set and DooCoins are redeemed for rewards
+        Built on the blockchain, a new generation of decetralized app providing privacy, security and speed. Become an early adopter and help shape the future of DooCoins.
         </p>
 
         <Cta 
