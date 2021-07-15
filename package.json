@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "doo-coins-landing",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Landing page for DooCoins kids rewards dApp",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jake Kempo <hello@discoverdoo.com>",
   "dependencies": {
     "gatsby": "^3.9.0",
     "gatsby-plugin-gatsby-cloud": "^2.9.0",

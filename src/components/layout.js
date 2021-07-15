@@ -29,9 +29,9 @@ const Layout = ({ children }) => {
       <div className="contain">
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built on The
+          © {new Date().getFullYear()}, Built on 
           {` `}
-          <a href="https://dfinity.org/">Internet Computer</a>
+          <a href="https://dfinity.org/">The Internet Computer</a>
         </footer>
       </div>
     </>
