@@ -1,6 +1,6 @@
 import React from 'react';
 import { StaticImage } from "gatsby-plugin-image"
-import Cta from './cta';
+// import Cta from './cta';
 import './hero.css'
 
 const Hero = () => {
@@ -18,12 +18,17 @@ const Hero = () => {
         Built on blockchain technology, a new generation of decetralized app providing privacy, security and speed. Become an early adopter and help shape the future of DooCoins.
         </p>
 
-        <Cta 
+        {/* <Cta 
           size="big-cta" 
-          buttonText="Get started"
-          linkTo="/get-started/"
+          buttonText="Get early access"
+          linkTo="https://www.doo.co"
           color="orange"
-        />
+        /> */}
+
+      <form action="https://formspree.io/f/xnqlbvlb" method="POST">
+        <input type="email" className="input-early-access" placeholder="your email" name="_replyto" required />
+        <button type="submit" className="cta-early-access">Get early access</button>
+      </form>
 
       </div>
       <div className="hero-image">

@@ -26,3 +26,10 @@
   -ms-letter-spacing: 1px;
   letter-spacing: 1px;
 }
+
+.soon {
+  color: #ffffff;
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-top: 27px;
+}

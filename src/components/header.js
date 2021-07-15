@@ -2,7 +2,7 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import logo from "../images/logo.svg"
-import Cta from "./cta"
+// import Cta from "./cta"
 import "./header.css"
 
 const Header = ({ siteTitle }) => (
@@ -15,13 +15,14 @@ const Header = ({ siteTitle }) => (
       </Link>
 
       <div className="menu">
-        <Cta 
+        {/* <Cta 
           size="small-cta" 
           buttonText="Sign in"
-          linkTo="http://www.doo.tools"
+          linkTo="http://www.doo.co"
           color="white"
           className="cta"
-        />
+        /> */}
+        <div className="soon">Coming soon!</div>
       </div>
 
   </header>
