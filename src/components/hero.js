@@ -8,7 +8,7 @@ const Hero = () => {
     <div className="hero-section">
       <div className="hero-copy">
         <h1>
-          Kids rewards app
+          Kids rewards app - Coming soon!
         </h1>
         <p className="value-prop">
         Children earn DooCoins for good behavior, completing chores and personal achievements, goals are set and DooCoins are redeemed for rewards. 

@@ -71,10 +71,10 @@ strong {
 dfn {
   font-style: italic;
 }
-h1 {
-  font-size: 2em;
+/* h1 {
+  font-size: 1.8em;
   margin: 0.67em 0;
-}
+} */
 mark {
   background-color: #ff0;
   color: #000;
@@ -263,7 +263,7 @@ h1 {
   font-family: Verdana, Geneva, sans-serif;
   font-weight: 400;
   text-rendering: optimizeLegibility;
-  font-size: 2.3rem;
+  font-size: 1.8rem;
   line-height: 1.2;
   word-spacing: -6px;
 }
@@ -657,7 +657,7 @@ pre tt:after {
 /* for-tablet-portrait-up */
 @media (min-width: 600px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
   h2 {
     font-size: 1.7rem;
@@ -667,7 +667,7 @@ pre tt:after {
 /* for-tablet-landscape-up */
 @media (min-width: 900px) {
   h1 {
-    font-size: 2.3rem;
+    font-size: 1.8rem;
   }
   h2 {
     font-size: 2rem;

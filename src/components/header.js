@@ -22,7 +22,7 @@ const Header = ({ siteTitle }) => (
           color="white"
           className="cta"
         /> */}
-        <div className="soon">Coming soon!</div>
+        {/* <div className="soon">Coming soon!</div> */}
       </div>
 
   </header>

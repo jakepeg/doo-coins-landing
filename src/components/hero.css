@@ -36,6 +36,7 @@
   background-color: #eb5727;
   border-color: #eb5727;
   margin-top: -7px;
+  width: 250px;
 }
 
 .input-early-access {
@@ -52,6 +53,7 @@
   outline: 0px;
   background-color: transparent;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 /* for phones only */
