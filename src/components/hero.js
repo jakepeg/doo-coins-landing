@@ -15,7 +15,7 @@ const Hero = () => {
         </p>
 
         <p className="value-prop">
-        Built on blockchain technology, a new generation of decetralized app providing privacy, security and speed. Become an early adopter and help shape the future of DooCoins.
+        Built on blockchain technology, a new generation of decentralized app providing privacy, security and speed. Become an early adopter and help shape the future of DooCoins.
         </p>
 
         {/* <Cta 
